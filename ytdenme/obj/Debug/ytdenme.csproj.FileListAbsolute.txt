@@ -1,0 +1,22 @@
+C:\Users\thesc\source\repos\Zort\ytdenme\bin\Debug\libvideo.dll
+C:\Users\thesc\source\repos\Zort\ytdenme\bin\Debug\MediaToolkit.dll
+C:\Users\thesc\source\repos\Zort\ytdenme\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thesc\source\repos\Zort\ytdenme\bin\Debug\NiL.JS.dll
+C:\Users\thesc\source\repos\Zort\ytdenme\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thesc\source\repos\Zort\ytdenme\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thesc\source\repos\Zort\ytdenme\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\thesc\source\repos\Zort\ytdenme\obj\Debug\ytdenme.csproj.AssemblyReference.cache
+C:\Users\thesc\source\repos\Zort\ytdenme\obj\Debug\ytdenme.csproj.SuggestedBindingRedirects.cache
+C:\Users\thesc\source\repos\Zort\ytdenme\obj\Debug\ytdenme.Form1.resources
+C:\Users\thesc\source\repos\Zort\ytdenme\obj\Debug\ytdenme.Properties.Resources.resources
+C:\Users\thesc\source\repos\Zort\ytdenme\obj\Debug\ytdenme.csproj.GenerateResource.cache
+C:\Users\thesc\source\repos\Zort\ytdenme\obj\Debug\ytdenme.csproj.CoreCompileInputs.cache
+C:\Users\thesc\source\repos\Zort\ytdenme\obj\Debug\ytdenme.csproj.CopyComplete
+C:\Users\thesc\source\repos\Zort\ytdenme\obj\Debug\ytdenme.Form2.resources
+C:\Users\thesc\source\repos\Zort\ytdenme\obj\Debug\ytdenme.Form3.resources
+C:\Users\thesc\source\repos\Zort\ytdenme\obj\Debug\ytdenme.Form4.resources
+C:\Users\thesc\source\repos\Zort\ytdenme\bin\Debug\Youtube Video Audio Downloader.exe.config
+C:\Users\thesc\source\repos\Zort\ytdenme\bin\Debug\Youtube Video Audio Downloader.exe
+C:\Users\thesc\source\repos\Zort\ytdenme\bin\Debug\Youtube Video Audio Downloader.pdb
+C:\Users\thesc\source\repos\Zort\ytdenme\obj\Debug\Youtube Video Audio Downloader.exe
+C:\Users\thesc\source\repos\Zort\ytdenme\obj\Debug\Youtube Video Audio Downloader.pdb
